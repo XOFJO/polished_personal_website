@@ -1,118 +1,107 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋I am Yiheng Ding, a full-stack software developer with a solid background in statistics and data analysis. I am passionate about tackling new challenges, enjoy solving complex problems, and always maintain a strong enthusiasm for learning. Whether it's mastering new technologies or enhancing existing skills, I am driven to explore and grow. I believe that continuous learning and innovation are key to personal and professional growth, and I strive to make a positive impact on my team and projects through my efforts.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Home Finder",
+      "startDate": "2023",
+      "description": "This project enables people to log in as users via email or google account to post their houses, with all data storing in Firebase.",
+      "images": ["images/portfolio/home_finder/houseFinder.png"],
+      "url": "https://home-finder-tau.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Movie & TV Show Search",
+      "startDate": "2023",
+      "description": "Users can view recently popular movies on the front page and search for any movie or show they desire. By clicking on a movie's poster, they can access more detailed information.",
+      "images": ["images/portfolio/movie_base/MovieBase.png"],
+      "url": "https://sage-lebkuchen-18d0cb.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Location Search",
+      "startDate": "2023",
+      "description": "This website allows users to enter any location name to view it on the map with a marker. Simultaneously, they can also see the local time and timezone of the selected location.",
+      "images": ["images/portfolio/location_search/locationSearch.png"],
+      "url": "https://subtle-eclair-096a94.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Btrust International Inc.",
+      "title": "Application Developer",
+      "years": "11.2023 - present",
+      "mainTech": ["Python, Dash Python, Odoo"],
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "PostgreSQL",
+        "SAP HANA",
+        "Bootstrap",
+        "React",
+        "Odoo",
+        "Dash Python",
+        "Python Pandas",
+        "Shopify"
+      ]
+    },
+    {
+      "company": "Boston University",
+      "title": "Master's Student",
+      "years": "09.2021 - 03.2023",
+      "mainTech": ["Python, PySpark"],
+      "technologies": ["Python", "PySpark", "Python Pandas", "Big Data Analytics"]
+    },
+    {
+      "company": "University of Waterloo",
+      "title": "Bachelor's Student",
+      "years": "09.2017 - 06.2021",
+      "mainTech": ["Python, C, C++"],
+      "technologies": ["Python", "C", "C++", "Racket", "R", "SQL"]
+    }
+  ]
+}
