@@ -95,7 +95,7 @@
     },
     {
       "company": "Boston University",
-      "title": "硕士研究生",
+      "title": "应用数据分析硕士",
       "years": "09.2021 - 03.2023",
       "mainTech": ["Python, PySpark"],
       "technologies": [
@@ -107,7 +107,7 @@
     },
     {
       "company": "University of Waterloo",
-      "title": "本科生",
+      "title": "统计学本科（计算机科学方向）",
       "years": "09.2017 - 06.2021",
       "mainTech": ["Python, C, C++"],
       "technologies": ["Python", "C", "C++", "Racket", "R", "SQL"]

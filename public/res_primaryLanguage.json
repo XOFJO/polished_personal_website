@@ -95,7 +95,7 @@
     },
     {
       "company": "Boston University",
-      "title": "Master's Student",
+      "title": "Master's in Applied Data Analytics",
       "years": "09.2021 - 03.2023",
       "mainTech": ["Python, PySpark"],
       "technologies": [
@@ -107,7 +107,7 @@
     },
     {
       "company": "University of Waterloo",
-      "title": "Bachelor's Student",
+      "title": "Bachelor's in Statistics with Computer Science Option",
       "years": "09.2017 - 06.2021",
       "mainTech": ["Python, C, C++"],
       "technologies": ["Python", "C", "C++", "Racket", "R", "SQL"]
