@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "description_header": "你好",
+    "description_header": "联系我: dingyiheng98@gmail.com",
     "description": "👋我是丁翊恒，一名全栈开发工程师，拥有扎实的统计学背景和数据分析能力。我热衷于挑战新事物，享受解决复杂问题的过程，并始终保持对学习的热情。无论是掌握新技术还是提升现有技能，我都充满动力去探索和成长。我相信，持续学习和创新是成长的关键，并希望通过自己的努力为团队和项目带来积极的改变。",
     "section_name": {
       "about": "关于我",
@@ -32,6 +32,26 @@
       ]
     },
     {
+      "startDate": "2024",
+      "description": "这是 Btrust International Trade Inc. 的官方网站，部署在 Shopify 平台上。该网站帮助客户随时了解最新的商品价格，支持用户直接在网站上提交求职申请，并展示最新的促销和活动宣传单。",
+      "images": ["images/portfolio/btrust_website/landingPage.png","images/portfolio/btrust_website/flyerPage.png","images/portfolio/btrust_website/jobPage.png"],
+      "url": "https://www.btrustsupermarket.com/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "title": "电影电视剧查询平台",
       "startDate": "2023",
       "description": "用户可以在首页查看最近热门的电影，并搜索任何他们想要的电影或节目。点击电影的海报即可获取更详细的信息。",
@@ -49,23 +69,6 @@
         {
           "class": "devicon-css3-plain",
           "name": "CSS"
-        }
-      ]
-    },
-    {
-      "title": "地址时区查询平台",
-      "startDate": "2023",
-      "description": "该网站允许用户输入任意位置名称，在地图上查看带有标记的位置。同时，用户还可以看到所选位置的当地时间和时区信息。",
-      "images": ["images/portfolio/location_search/locationSearch.png"],
-      "url": "https://subtle-eclair-096a94.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-vuejs-plain",
-          "name": "Vue"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
         }
       ]
     }

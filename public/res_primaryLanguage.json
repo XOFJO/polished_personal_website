@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "description_header": "Hello",
+    "description_header": "Contact me at: dingyiheng98@gmail.com",
     "description": "👋I am Yiheng Ding, a full-stack software developer with a solid background in statistics and data analysis. I am passionate about tackling new challenges, enjoy solving complex problems, and always maintain a strong enthusiasm for learning. Whether it's mastering new technologies or enhancing existing skills, I am driven to explore and grow. I believe that continuous learning and innovation are key to personal and professional growth, and I strive to make a positive impact on my team and projects through my efforts.",
     "section_name": {
       "about": "About me",
@@ -32,6 +32,27 @@
       ]
     },
     {
+      "title": "Btrust Official Website",
+      "startDate": "2024",
+      "description": "This is the official website of Btrust International Trade Inc., deployed on Shopify. It helps customers stay updated with the latest product prices, allows users to submit job applications directly on the site, and showcases the most recent flyers for promotions and events.",
+      "images": ["images/portfolio/btrust_website/landingPage.png","images/portfolio/btrust_website/flyerPage.png","images/portfolio/btrust_website/jobPage.png"],
+      "url": "https://www.btrustsupermarket.com/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "title": "Movie & TV Show Search",
       "startDate": "2023",
       "description": "Users can view recently popular movies on the front page and search for any movie or show they desire. By clicking on a movie's poster, they can access more detailed information.",
@@ -49,23 +70,6 @@
         {
           "class": "devicon-css3-plain",
           "name": "CSS"
-        }
-      ]
-    },
-    {
-      "title": "Location Search",
-      "startDate": "2023",
-      "description": "This website allows users to enter any location name to view it on the map with a marker. Simultaneously, they can also see the local time and timezone of the selected location.",
-      "images": ["images/portfolio/location_search/locationSearch.png"],
-      "url": "https://subtle-eclair-096a94.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-vuejs-plain",
-          "name": "Vue"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
         }
       ]
     }
@@ -94,7 +98,12 @@
       "title": "Master's Student",
       "years": "09.2021 - 03.2023",
       "mainTech": ["Python, PySpark"],
-      "technologies": ["Python", "PySpark", "Python Pandas", "Big Data Analytics"]
+      "technologies": [
+        "Python",
+        "PySpark",
+        "Python Pandas",
+        "Big Data Analytics"
+      ]
     },
     {
       "company": "University of Waterloo",
