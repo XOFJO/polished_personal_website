@@ -15,7 +15,7 @@
       "startDate": "2023",
       "description": "This project enables people to log in as users via email or google account to post their houses, with all data storing in Firebase.",
       "images": ["images/portfolio/home_finder/houseFinder.png","images/portfolio/home_finder/houseFinder2.png"],
-      "url": "https://home-finder-tau.vercel.app/",
+      "url": "https://www.yihengdingproject2.com/",
       "github_url":"https://github.com/XOFJO/home-finder",
       "technologies": [
         {
@@ -58,7 +58,7 @@
       "startDate": "2023",
       "description": "Users can view recently popular movies on the front page and search for any movie or show they desire. By clicking on a movie's poster, they can access more detailed information.",
       "images": ["images/portfolio/movie_base/MovieBase.png", "images/portfolio/movie_base/MovieBase2.png", "images/portfolio/movie_base/3.png", "images/portfolio/movie_base/4.png"],
-      "url": "https://sage-lebkuchen-18d0cb.netlify.app/",
+      "url": "https://www.yihengdingproject2.com/",
       "github_url":"https://github.com/XOFJO/movie-tv-search",
       "technologies": [
         {
